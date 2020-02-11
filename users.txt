@@ -1,0 +1,4 @@
+user1 | tester
+user2 | tester
+user3 | programmer
+user4 | programmer
